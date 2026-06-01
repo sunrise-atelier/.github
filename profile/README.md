@@ -62,10 +62,10 @@ No minimum commitment. Pick up an issue, open a PR, see if it fits.
  
 <p align="center">
   <a href="https://discord.gg/YOUR_INVITE_LINK">Discord</a> ·
-  <a href="https://sunrise-atelier.org">Website</a> ·
-  <a href="mailto:hello@sunrise-atelier.org">hello@sunrise-atelier.org</a>
+  <a href="https://sunrise-atelier.vercel.app">Website</a> ·
+  <a href="mailto:sunriseatelier.labs@gmail.com">sunriseatelier.labs@gmail.com</a>
 </p>
 <p align="center">
-  <sub>Made in Orange County, CA · Open source · No VC</sub>
+  <sub>Founded in the Bay Area · Open source. Always free.</sub>
 </p>
  
