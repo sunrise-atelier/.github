@@ -21,23 +21,40 @@ The people who need good tools are the ones least likely to have access to them.
 ---
  
 ## How to get involved
- 
-**You don't need permission to start contributing.**
- 
-- Browse open issues labeled [`good first issue`](../../issues?q=is%3Aopen+label%3A%22good+first+issue%22) or [`help wanted`](../../issues?q=is%3Aopen+label%3A%22help+wanted%22)
-- Read [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md) — it covers our workflow, code style, and PR process
-- Join our [Discord](https://discord.gg/YOUR_INVITE_LINK) to say hi before diving in
-- Not a developer? We also need research, design, writing, and community outreach help
-We're building in public. Every decision, dead end, and milestone gets documented openly.
- 
+
+You do not need permission to start contributing, but we ask everyone to complete a short onboarding process first.
+
+### Before you apply
+
+* Read about our programs and teams to find where you'd like to contribute.
+* Join our Discord community to introduce yourself and stay connected with the project.
+* Review our `CONTRIBUTING.md` guide to understand our workflow, code standards, and contribution process.
+
+### Apply to join
+
+Complete the Contributor Application to tell us:
+
+* Which team(s) or program(s) you want to join
+* Your skills, experience, and interests
+* Whether you're interested in development, design, research, writing, operations, outreach, or another area
+* Your Discord username so we can coordinate with you
+
+The application is primarily used to organize contributors, place people on the right teams, and reduce spam or automated signups.
+
+We welcome contributors of all experience levels. 99% of the time, applicants will be accepted.
+
+Applications may be declined if an applicant's goals are fundamentally misaligned with the mission of the organization, including attempts to use the project primarily for personal profit or commercial promotion.
+
 ---
  
 ## Who we're looking for
  
-- **Software engineers** — web, backend, data, anything
-- **Designers** — UI/UX, accessibility, visual design
-- **Bilingual contributors** — especially Mandarin, Cantonese, Vietnamese, Spanish
-- **Researchers** — civic tech, community needs assessment, user interviews
+- **Software engineers** -- web, backend, data, anything
+- **Designers** -- UI/UX, accessibility, visual design
+- **Bilingual contributors** -- especially Mandarin, Cantonese, Japanese, Korean, Vietnamese, Spanish
+- **Researchers** -- data analytics, community needs assessment, user interviews
+- **Media + Writers** -- social media management, technical writing
+- **Operations** -- public relations, logistics, outreach, all in one
 - **High School & University Students** — this project is a real-world portfolio piece with actual community impact
 No minimum commitment. Pick up an issue, open a PR, see if it fits.
  
