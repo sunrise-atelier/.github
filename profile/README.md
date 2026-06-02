@@ -10,10 +10,10 @@ We build free, plug-and-play technology for underserved communities and under-re
  
 | Program | What it is | Status |
 |---|---|---|
-| 🏛️ **Civic Tech** | Open-source software for local governments — starting with OC cities that lack the time or staff to build their own tools | 🟡 Active |
-| 🤝 **Volunteer Networks** | Connects OC volunteers with local organizations. Curated directory + AI-assisted matching | 🟡 Active |
-| 🏪 **Community Business Tech** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | 🔜 Next phase |
-| 🎓 **Student Opportunities** | Plain-language database of research, internship, and fellowship opportunities for first-gen and non-target students | 🔜 Next phase |
+| 🏛️ **Meridian** | Open-source software for local governments — starting with OC cities that lack the time or staff to build their own tools | 🟡 Active |
+| 🤝 **Waypoint** | Connects OC volunteers with local organizations. Curated directory + AI-assisted matching | 🔜 Next phase |
+| 🏪 **Lantern** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | 🔜 Next phase |
+| 🎓 **Threshold** | Plain-language database of research, internship, and fellowship opportunities for first-gen and non-target students | 🔜 Next phase |
  
 ---
  
