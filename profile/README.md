@@ -3,9 +3,11 @@ raw
 Readme · MD
 # Sunrise Atelier
  
-**Open-source tools for peop;le that can't afford enterprise software.**
+**Open-source tools for people that can't afford enterprise software.**
  
-The people who need good tools are the ones least likely to have access to them. Based in the Bay Area. Always free.
+The people who need good tools are the ones least likely to have access to them.  
+
+Based in the Bay Area. Always free.
  
 ---
  
