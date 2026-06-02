@@ -53,7 +53,7 @@ Applications may be declined if an applicant's goals are fundamentally misaligne
 - **Designers** -- UI/UX, accessibility, visual design
 - **Bilingual contributors** -- especially Mandarin, Cantonese, Japanese, Korean, Vietnamese, Spanish
 - **Researchers** -- data analytics, community needs assessment, user interviews
-- **Media + Writers** -- social media management, technical writing
+- **Media** -- social media management, technical writing
 - **Operations** -- public relations, logistics, outreach, all in one
 - **High School & University Students** — this project is a real-world portfolio piece with actual community impact
 No minimum commitment. Pick up an issue, open a PR, see if it fits.
