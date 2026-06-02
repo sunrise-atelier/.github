@@ -1,3 +1,6 @@
+
+raw
+Readme · MD
 # Sunrise Atelier
  
 **Open-source operational tools for communities that can't afford enterprise software.**
@@ -10,10 +13,10 @@ We build free, plug-and-play technology for underserved communities and under-re
  
 | Program | What it is | Status |
 |---|---|---|
-| 🏛️ **Plug & Play** | Open-source software for organizations — starting with OC cities that lack the time or staff to build their own tools | 🟡 Active |
-| 🤝 **Neighbor** | Connects volunteers with local organizations. Curated directory + AI-assisted matching | 🔜 Next phase |
-| 🏪 **Almanac** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | 🔜 Next phase |
-| 🎓 **Aperture** | Widening the lens for students who've been looking through a narrow opening their whole academic life. | 🔜 Next phase |
+| 🔌 **Plug & Play** | Free, open-source plug-and-play tools for any underserved org — starting with OC cities that lack the time or staff to build their own | 🟡 Active |
+| 🤝 **Neighbor** | Connects OC volunteers with local organizations. Curated directory + AI-assisted matching | 🟡 Active |
+| 🏮 **Almanac** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | 🔜 Next phase |
+| 🔭 **Aperture** | Plain-language database of research, internship, and fellowship opportunities for first-gen and non-target students | 🔜 Next phase |
  
 ---
  
@@ -35,7 +38,7 @@ We're building in public. Every decision, dead end, and milestone gets documente
 - **Designers** — UI/UX, accessibility, visual design
 - **Bilingual contributors** — especially Mandarin, Cantonese, Vietnamese, Spanish
 - **Researchers** — civic tech, community needs assessment, user interviews
-- **Students at UCI** — this project is a real-world portfolio piece with actual community impact
+- **High School & University Students** — this project is a real-world portfolio piece with actual community impact
 No minimum commitment. Pick up an issue, open a PR, see if it fits.
  
 ---
@@ -44,10 +47,10 @@ No minimum commitment. Pick up an issue, open a PR, see if it fits.
  
 | Repo | Description |
 |---|---|
-| [`civic-tech`](./civic-tech) | Municipal software and public data tools |
-| [`volunteer-network`](./volunteer-network) | OC volunteer directory and matching platform |
-| [`community-biz-tech`](./community-biz-tech) | Bilingual tools for small ethnic businesses |
-| [`student-opportunities`](./student-opportunities) | First-gen student opportunity database |
+| [`plug-and-play`](./plug-and-play) | Plug-and-play tools for underserved orgs and local governments |
+| [`neighbor`](./neighbor) | OC volunteer directory and matching platform |
+| [`almanac`](./almanac) | Bilingual tools for small ethnic businesses |
+| [`aperture`](./aperture) | First-gen student opportunity database |
 | [`website`](./website) | Our public landing page |
  
 ---
@@ -66,6 +69,5 @@ No minimum commitment. Pick up an issue, open a PR, see if it fits.
   <a href="mailto:sunriseatelier.labs@gmail.com">sunriseatelier.labs@gmail.com</a>
 </p>
 <p align="center">
-  <sub>Founded in the Bay Area · Open source. Always free.</sub>
+  <sub>Founded in the Bay Area · Open source</sub>
 </p>
- 
