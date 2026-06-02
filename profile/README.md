@@ -76,7 +76,7 @@ No minimum commitment. Pick up an issue, open a PR, see if it fits.
  
 - **Free, always.** No freemium, no paywalls, no upsells.
 - **Open source, always.** Everything we build is public by default.
-- **Deploy, don't just publish.** We don't drop code on GitHub and walk away — we go in, install, configure, and train.
+- **Deploy, don't just publish.** We don't drop code on GitHub and walk away -- we go in, install, configure, and train.
 - **Community-first scope.** We build what communities tell us is broken, not what seems interesting to us.
 ---
  
