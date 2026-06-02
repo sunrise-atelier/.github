@@ -13,9 +13,9 @@ The people who need good tools are the ones least likely to have access to them.
  
 | Program | What it is | Status |
 |---|---|---|
-| **Plug & Play** | Free, open-source plug-and-play tools for any underserved org — starting with OC cities that lack the time or staff to build their own | Active |
+| **Plug & Play** | Free, open-source plug-and-play tools for any underserved org -- starting with OC cities that lack the time or staff to build their own | Active |
 | **Neighbor** | Connects OC volunteers with local organizations. Curated directory + AI-assisted matching | Active |
-| **Almanac** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | Next phase |
+| **Almanac** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses -- deployed on-site by volunteers | Next phase |
 | **Aperture** | Plain-language database of research, internship, and fellowship opportunities for first-gen and non-target students | Next phase |
  
 ---
