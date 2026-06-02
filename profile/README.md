@@ -10,9 +10,9 @@ We build free, plug-and-play technology for underserved communities and under-re
  
 | Program | What it is | Status |
 |---|---|---|
-| 🏛️ **Meridian** | Open-source software for local governments — starting with OC cities that lack the time or staff to build their own tools | 🟡 Active |
-| 🤝 **Waypoint** | Connects OC volunteers with local organizations. Curated directory + AI-assisted matching | 🔜 Next phase |
-| 🏪 **Lantern** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | 🔜 Next phase |
+| 🏛️ **Plug & Play** | Open-source software for local governments — starting with OC cities that lack the time or staff to build their own tools | 🟡 Active |
+| 🤝 **Neighbor** | Connects volunteers with local organizations. Curated directory + AI-assisted matching | 🔜 Next phase |
+| 🏪 **Almanac** | Free, bilingual POS, reservation, and inventory tools for small ethnic businesses — deployed on-site by volunteers | 🔜 Next phase |
 | 🎓 **Aperture** | Widening the lens for students who've been looking through a narrow opening their whole academic life. | 🔜 Next phase |
  
 ---
