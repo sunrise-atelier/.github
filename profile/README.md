@@ -31,18 +31,18 @@ You do not need permission to start contributing, but we ask everyone to complet
 
 ### Apply to join
 
-Complete the Contributor Application to tell us:
+Complete the Contributor Application as an application to our Discord community to tell us:
 
 * Which team(s) or program(s) you want to join
 * Your skills, experience, and interests
 * Whether you're interested in development, design, research, writing, operations, outreach, or another area
-* Your Discord username so we can coordinate with you
+* Your GitHub and LinkedIn
 
 The application is primarily used to organize contributors, place people on the right teams, and reduce spam or automated signups.
 
-We welcome contributors of all experience levels. 99% of the time, applicants will be accepted.
+We welcome contributors of all experience levels. Most applicants will be accepted.
 
-Applications may be declined if an applicant's goals are fundamentally misaligned with the mission of the organization, including attempts to use the project primarily for personal profit or commercial promotion.
+Applications may be declined if an applicant's goals are fundamentally misaligned with the mission of the organization, including attempts to use the project primarily for personal profit or commercial promotion. 
 
 ---
  
