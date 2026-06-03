@@ -33,8 +33,8 @@ You do not need permission to start contributing, but we ask everyone to complet
 
 Complete the Contributor Application as an application to our Discord community to tell us:
 
-* Which team(s) or program(s) you want to join
-* Your skills, experience, and interests
+* Which team(s) and program(s) you want to join
+* Your skills and interests
 * Whether you're interested in development, design, research, writing, operations, outreach, or another area
 * Your GitHub and LinkedIn
 
@@ -42,20 +42,21 @@ The application is primarily used to organize contributors, place people on the 
 
 We welcome contributors of all experience levels. Most applicants will be accepted.
 
-Applications may be declined if an applicant's goals are fundamentally misaligned with the mission of the organization, including attempts to use the project primarily for personal profit or commercial promotion. 
+Applications may be declined if an applicant's goals are fundamentally misaligned with the mission of the organization, including attempts to use the project primarily for personal profit or commercial promotion. For developers, make sure you are familiar with the stack your desired team(s) or program(s) is using.
 
 ---
  
 ## Who we're looking for
  
-- **Software engineers** -- web, backend, data, anything
+- **Software developers** -- web, frontend, backend, full-stack, data
 - **Designers** -- UI/UX, accessibility, visual design
-- **Bilingual contributors** -- especially Mandarin, Cantonese, Japanese, Korean, Vietnamese, Spanish
+- **Bilingual contributors** -- especially Mandarin, Cantonese, Japanese, Korean, and Vietnamese
 - **Researchers** -- data analytics, community needs assessment, user interviews
 - **Media** -- social media management, technical writing
 - **Operations** -- public relations, logistics, outreach, all in one
-- **High School & University Students** — this project is a real-world portfolio piece with actual community impact
-No minimum commitment. Pick up an issue, open a PR, see if it fits.
+- **High School & University Students** — this project is a real-world portfolio piece with actual community impact  
+
+No minimum time commitment. Once you're in, communicate for context and support, pick up an issue, open a PR, and then we'll go from there.
  
 ---
  
@@ -64,8 +65,8 @@ No minimum commitment. Pick up an issue, open a PR, see if it fits.
 | Repo | Description |
 |---|---|
 | [`plug-and-play`](./plug-and-play) | Plug-and-play tools for underserved orgs and local governments |
-| [`neighbor`](./neighbor) | OC volunteer directory and matching platform |
-| [`almanac`](./almanac) | Bilingual tools for small ethnic businesses |
+| [`neighbor`](./neighbor) | Volunteer directory and matching platform |
+| [`almanac`](./almanac) | Bilingual tools for AAPI businesses |
 | [`aperture`](./aperture) | First-gen student opportunity database |
 | [`website`](./website) | Our public landing page |
  
